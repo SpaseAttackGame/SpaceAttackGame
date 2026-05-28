@@ -2,3 +2,4 @@ Hi, I created this game at 8:38 AM on May 26, 2026. My name is David, so that's 
 In this game you must kill the aliens for this you must shoot from the gun 
 In the game has be a store and you can buy a weapons
 Have a fun!
+WARNING: PASSWORD is StartGame
